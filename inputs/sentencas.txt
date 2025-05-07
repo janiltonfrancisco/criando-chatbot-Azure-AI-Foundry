@@ -1,0 +1,5 @@
+Projeto 2
+Criando um chatbot baseado em conteúdos de PDFs.
+
+O objetivo do projeto é criar um chatbot interativo, no ambiente Azure AI Foundry, criando models, endpoints, implantando modelos de IAs GPT 4.o, que é própria para chats, e text embedding-3-large, este último fará o processo de vetorização.
+Os dados inseridos estão no arquivo em PDF, que será upado e posteriormente processado pelo Azure AI Search.
